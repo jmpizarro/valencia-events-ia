@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a96e86aa.css",
+    "main.js": "/static/js/main.e0cbd069.js",
+    "static/media/valencia.jpg": "/static/media/valencia.5d717425977cdd9af8f1.jpg",
+    "index.html": "/index.html",
+    "main.a96e86aa.css.map": "/static/css/main.a96e86aa.css.map",
+    "main.e0cbd069.js.map": "/static/js/main.e0cbd069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a96e86aa.css",
+    "static/js/main.e0cbd069.js"
+  ]
+}
